@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://api.statusbadges.me/openspotify/967152107922792478" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/967152107922792478?style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7" alt="spotify"></a>
-   <img src="https://api.statusbadges.me/badge/status/967152107922792478?style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7" alt="status">
+   <img src="https://api.statusbadges.me/badge/status/967152107922792478?style=for-the-badge&labelColor=%231e1e2e" alt="status">
 </div>
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OasisVee&theme=rose_pine)](https://github.com/OasisVee)
