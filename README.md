@@ -1,2 +1,3 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OasisVee&theme=rose_pine)](https://github.com/OasisVee)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OasisVee&theme=rose_pine)](https://github.com/OasisVee) [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OasisVee&theme=rose_pine)](https://github.com/OasisVee)
+[![](https://lanyard.cnrad.dev/api/967152107922792478?bg=181825&borderRadius=12px&animated=true&idleMessage=i%27m%20not%20doing%20anything%20rn%20%3A%29&showDisplayName=true)](https://discord.com/users/967152107922792478)
