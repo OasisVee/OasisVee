@@ -1,6 +1,10 @@
+<div align="center">
+   <a href="https://api.statusbadges.me/openspotify/967152107922792478" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/967152107922792478?style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7" alt="spotify"></a>
+</div>
+
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OasisVee&theme=rose_pine)](https://github.com/OasisVee)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OasisVee&theme=rose_pine)](https://github.com/OasisVee) [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OasisVee&theme=rose_pine)](https://github.com/OasisVee)
-
+<br>
 <div align="center">
     <a href="https://discord.com/users/967152107922792478">
         <img src="https://lanyard.cnrad.dev/api/967152107922792478?bg=181825&borderRadius=12px&animated=true&idleMessage=i%27m%20not%20doing%20anything%20rn%20%3A%29&showDisplayName=true" />
