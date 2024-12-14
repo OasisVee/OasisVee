@@ -7,4 +7,4 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OasisVee&theme=rose_pine)](https://github.com/OasisVee) [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OasisVee&theme=rose_pine)](https://github.com/OasisVee)
 <br/>
 [![](https://github-readme-stats.vercel.app/api?username=OasisVee&show_icons=true&bg_color=181825&text_color=cdd6f4&icon_color=cba6f7&title_color=cba6f7&hide_border=true&border_radius=12&include_all_commits=true&custom_title=My%20GitHub%20Stats)]()
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OasisVee&label=views&color=0e75b6&style=for-the-badge&labelColor=%231e1e2e" alt="OasisVee" /> </p>
+![](https://hit.yhype.me/github/profile?account_id=131408227&color=%23cba6f7)
